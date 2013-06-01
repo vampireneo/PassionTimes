@@ -8,6 +8,9 @@
         <option name="GRADLE_HOME_DIR_PATH" />
       </configuration>
     </facet>
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
