@@ -9,6 +9,7 @@ public class MainActivity extends SherlockActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //Theme_Sherlock_Light_DarkActionBar
         setTheme(R.style.Theme_Sherlock_Light); //Used for theme switching in samples
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
