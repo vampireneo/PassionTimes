@@ -8,13 +8,13 @@
   <component name="ChangeListManager">
     <list default="true" id="003004b0-2c6f-4c0b-845e-cbd1a0a75190" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java" afterPath="$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PassionTimesProject.iml" afterPath="$PROJECT_DIR$/PassionTimesProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/ActionBarSherlock/actionbarsherlock/project.properties" afterPath="$PROJECT_DIR$/libraries/ActionBarSherlock/actionbarsherlock/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PassionTimes/PassionTimes.iml" afterPath="$PROJECT_DIR$/PassionTimes/PassionTimes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PassionTimes.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="003004b0-2c6f-4c0b-845e-cbd1a0a75190" time="1370105397898" ignored="false" />
+    <file path="/Dummy.txt" changelist="003004b0-2c6f-4c0b-845e-cbd1a0a75190" time="1370282838906" ignored="false" />
     <file path="/MainActivity.java" changelist="003004b0-2c6f-4c0b-845e-cbd1a0a75190" time="1370105730021" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/android/lib/android.jar!/org/jetbrains/android/android.xsd" changelist="003004b0-2c6f-4c0b-845e-cbd1a0a75190" time="1370105794392" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,6 +31,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -67,7 +68,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -80,7 +80,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="45" selection-start="419" selection-end="419" vertical-scroll-proportion="0.41666666">
+            <state line="81" column="18" selection-start="2930" selection-end="2930" vertical-scroll-proportion="0.450116">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,7 +146,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,6 +232,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,6 +243,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="015d21098353f410" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -252,7 +253,7 @@
       <recent name="$PROJECT_DIR$/libraries/ActionBarSherlock/actionbarsherlock" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Application.PassionTimes">
+  <component name="RunManager">
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -384,36 +385,40 @@
       <updated>1370075985566</updated>
       <workItem from="1370076008527" duration="726000" />
       <workItem from="1370102281314" duration="1235000" />
-      <workItem from="1370105397882" duration="492000" />
+      <workItem from="1370105397882" duration="1086000" />
+      <workItem from="1370145604785" duration="802000" />
+      <workItem from="1370149285560" duration="59000" />
+      <workItem from="1370149388249" duration="1063000" />
+      <workItem from="1370282817415" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2453000" />
+    <option name="totallyTimeSpent" value="4998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1420" height="805" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67153287" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32846716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.670073" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -479,6 +484,42 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="18" selection-start="2930" selection-end="2930" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1221" selection-end="1221" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1221" selection-end="1221" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="45" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="73" selection-start="97" selection-end="97" vertical-scroll-proportion="0.02283105" />
@@ -496,14 +537,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libraries/ActionBarSherlock/actionbarsherlock/res/values/abs__themes.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="17" selection-start="5605" selection-end="5605" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="86" column="17" selection-start="5605" selection-end="5605" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PassionTimes/src/main/java/com/vampireneoapps/passiontimes/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="45" selection-start="419" selection-end="419" vertical-scroll-proportion="0.41666666">
+        <state line="81" column="18" selection-start="2930" selection-end="2930" vertical-scroll-proportion="0.450116">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
